@@ -1,7 +1,5 @@
 # Deploying ML models with FastAPI, Docker, and Kubernetes
 
-*By: [Sayak Paul](https://github.com/sayakpaul) and [Chansung Park](https://github.com/deep-diver)*
-
 <div align="center">
 <img src="https://i.ibb.co/XLZTbBG/fastapi-ml-deployment.png" width="60%"/><br>
 <sup>Figure developed by Chansung Park</sup>
